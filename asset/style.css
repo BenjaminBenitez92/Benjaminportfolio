@@ -95,6 +95,12 @@ section img {
   background-image: url("./Screenshot.png");
 
 }
+.projecttwo {
+  background-image: url("./project2.png");
+}
+.project3 {
+  background-image: url("./project3.png");
+}
 .contactme ul {
   display: inline;
   list-style-type: none;
